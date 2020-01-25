@@ -1,5 +1,7 @@
 # DespliegueDeAppEscalable
 
+Conjunto de scripts que cumplen los requisitos que se enumeran a continuación. El script config.sh, es el que realiza todo de manera conjunta. Por otro lado, los scripts descarga.sh e inicio.sh se encargan de descargar e iniciar el escenario necesario para la realización de la práctica.
+
 # Objetivo
 
 Creación de un escenario completo de despliegue de una aplicación fiable y escalable
